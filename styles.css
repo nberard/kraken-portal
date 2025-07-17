@@ -19,6 +19,8 @@
 
 #logo {
     height: 100px;
+    float: right;
+    display: inline;
 }
 
 body {
@@ -28,6 +30,7 @@ body {
     /*background-color: #29206f;*/
     color: white;
     margin: 0;
+    display: block;
 }
 
 h1 {
