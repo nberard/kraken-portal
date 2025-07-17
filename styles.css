@@ -7,6 +7,16 @@
     'opsz' 24
 }
 
+#insta {
+    display: inline;
+    float: left;
+}
+
+#youtube {
+    display: inline;
+    float: right;
+}
+
 #logo {
     height: 100px;
 }
