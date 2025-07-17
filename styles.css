@@ -18,7 +18,7 @@
 }
 
 li {
-    border-style: wave;
+    border-style: groove;
     border-radius: 25px 25px;
     border-color: darkblue;
     margin: 15px;
