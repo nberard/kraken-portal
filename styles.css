@@ -10,16 +10,19 @@
 #insta {
     display: inline;
     float: left;
-}
-
-#youtube {
-    display: inline;
-    float: left;
+    margin: 500px 42px;
 }
 
 #twitch {
     display: inline;
     float: left;
+    margin-left: 50px;
+}
+
+#youtube {
+    display: inline;
+    float: left;
+    margin-left: 50px;
 }
 
 li {
