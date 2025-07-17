@@ -17,6 +17,14 @@
     float: right;
 }
 
+li {
+    border-style: wave;
+    border-radius: 25px 25px;
+    border-color: darkblue;
+    margin: 15px;
+    padding: 20px;
+}
+
 #logo {
     height: 100px;
     float: right;
@@ -46,14 +54,6 @@ h2 {
     text-align: center;
     color: darkorange;
     font-size: 2rem;
-    filter: drop-shadow(0px 0px 5px currentColor);
-
-}
-
-h3 {
-    text-align: center;
-    color: rebeccapurple;
-    font-size: 1rem;
     filter: drop-shadow(0px 0px 5px currentColor);
 
 }
