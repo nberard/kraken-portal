@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+
+img {
+    height: 50px;
+}
+
+body {
+    font-family: 'Indie Flower', serif;
+    background: #ffffff url("background.png") center center/cover no-repeat;
+
+    /*background-color: #29206f;*/
+    color: white;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    color: green;
+    font-size: 2rem;
+    filter: drop-shadow(0px 0px 5px currentColor);
+
+}
+
+.title {
+    color: green;
+    font-size: 1rem;
+}
+
+.rank {
+    color: darkblue;
+}
+
+.last-games {
+    display: inline;
+}
+
+
