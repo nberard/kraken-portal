@@ -18,6 +18,11 @@
     float: left;
 }
 
+#twitch {
+    display: inline;
+    float: left;
+}
+
 li {
     border-style: groove;
     border-radius: 25px 25px;
