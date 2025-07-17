@@ -7,6 +7,21 @@
     'opsz' 24
 }
 
+#insta {
+    display: inline;
+    float: right;
+}
+
+#youtube {
+    display: inline;
+    float: left;
+}
+
+#twitch {
+    display: inline;
+    float: left;
+}
+
 li {
     border-style: groove;
     border-radius: 25px 25px;
