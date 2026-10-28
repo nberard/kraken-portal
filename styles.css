@@ -110,3 +110,32 @@ h2 {
 }
 
 
+
+#rapports {
+    display: inline;
+    float: left;
+    margin-left: 7%;
+    text-align: center;
+}
+
+#rapports .button {
+    display: inline-block;
+    padding: 10px 22px;
+    border-radius: 25px;
+    background: darkorange;
+    color: white;
+    font-size: 1.4rem;
+    text-decoration: none;
+    filter: drop-shadow(0px 0px 4px darkorange);
+}
+
+#rapports .private {
+    color: white;
+    font-size: 1rem;
+}
+
+#rapports .qr {
+    background: white;
+    border-radius: 12px;
+    padding: 6px;
+}
